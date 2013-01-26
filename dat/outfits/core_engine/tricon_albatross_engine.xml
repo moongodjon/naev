@@ -7,7 +7,7 @@
   <mass>9</mass>
   <price>200000</price>
   <description>Tricon's Spriggan engine is designed to minimize travel time between destinations. It offers serious speed at moderate maneuverability.</description>
-  <gfx_store>afterburner</gfx_store>
+  <gfx_store>engine-tricon</gfx_store>
  </general>
  <specific type="modification">
   <thrust>220</thrust>

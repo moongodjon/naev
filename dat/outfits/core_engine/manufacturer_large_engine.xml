@@ -7,7 +7,7 @@
   <mass>50</mass>
   <price>1000000</price>
   <description>The engine that most manufacturers install in their ships at assembly. Usually the first component pilots upgrade.</description>
-  <gfx_store>afterburner</gfx_store>
+  <gfx_store>engine-old</gfx_store>
  </general>
  <specific type="modification">
   <thrust>40</thrust>
